@@ -8,4 +8,5 @@
 - Looking for new opportunities in Web devevlopment/ML Projects
 - Looking forward to contribute to **Open Source projects**
 - - 🌱 I’m currently learning Full stack Web Development
-- 
+- 📫 Reach 👇<br>
+- [![](https://img.shields.io/badge/-adarsh.sahoo17@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:adarsh.sahoo17)](mailto:adarsh.sahoo17@gmail.com)
