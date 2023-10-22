@@ -1,5 +1,5 @@
 <h1 align="center">Hi Folks👋, Adarsh here!</h1>
-<h3 align="center">I am a Computer Science student[AI/ML] & Web developer.</h3>
+<h3 align="center">I am a Computer Science student[AI/ML]||UI&UX Designer||Data Analyst.</h3>
 
 <!-- <h1 align="center">Education</h1>
 <h3 align="center">Integrated M.Tech CSE - Vellore Institue of Technology , Bhopal</h3>
