@@ -8,9 +8,9 @@ Looking for new opportunities in Data analyst projects/ ML Projects/ UI&Ux desin
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [adarsh.sahoo17@gmail.com](mailto:adarsh.sahoo17@gmail.com)
-* 🚀  I'm currently working on [ML Intern at Bharat Intern](http://https://www.linkedin.com/posts/adarshkumarsahoo_document-activity-7117273042501718016-DDUn?utm_source=share&utm_medium=member_desktop)
+* 🚀  I'm currently working on [R&D Intern At Nokia](https://www.linkedin.com/posts/adarshsahoo1703_exciting-news-im-beyond-excited-activity-7226233551032090624-6k3w?utm_source=share&utm_medium=member_desktop)
 * 🧠  I'm learning Data Analytics (By Google/Coursera)
-* 🤝  I'm open to collaborating on ML Projects, Data Analysis
+* 🤝  I'm open to collaborating on ML Projects, Data Analysis, UI Development
 
 ### Skills
 
